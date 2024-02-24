@@ -1,5 +1,8 @@
 # <strong>Landing Page do GTA V</strong>
-[<img src="tela.gif" alt="Video da página">](https://joaopaulo04.github.io/projeto-gta/)
+
+<a href="https://joaopaulo04.github.io/projeto-gta/" target="_blank">
+  <img src="tela.gif" alt="Video da página">
+</a>
 
 <p>Bem-vindo à Landing Page do GTA V! Este projeto foi desenvolvido na semana "Do Zero ao Programador Contratado", ministrado pela equipe do Dev em Dobro. Durante esta semana intensiva de aprendizado, exploramos os conceitos fundamentais de desenvolvimento web utilizando HTML, CSS e JavaScript para criar esta página inspirada no famoso jogo Grand Theft Auto V.</p>
 
